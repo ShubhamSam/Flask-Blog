@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gt_url": "https://github.com/",
+    "blog_name": "Hey Bloggies",
+    "blog_title": "My Blog World",
+    "blog_menu": "Blog World",
+    "tag_line": "Blogs For Bloggies",
+    "user_gmail": "shubhamsahaabhi.sk@gmail.com",
+    "user_pass": "your_email_password",
+    "about_txt": "Hi My name is Shubham and currently I am Learning Python Framework Named as Flask..",
+    "no_of_post": 2,
+    "login_png": "login.png",
+    "admin_user": "shubham@gmail.com",
+    "admin_pass": "Shubham",
+    "upload_location": "C:\\Users\\Shubham\\Desktop\\Flask\\static"
+
+  }
+}
